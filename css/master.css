@@ -1,0 +1,92 @@
+body {
+  margin: auto 0;
+}
+header {
+  background-color: #fbabab;
+  width: 1000px;
+  height: 200px;
+}
+
+footer {
+  background-color: #cce3fb;
+  width: 1000px;
+  height: 200px;
+}
+
+#kleur1 {
+  background-color: #9e6767;
+}
+
+#kleur2 {
+  background-color: #7f5454;
+}
+
+#kleur3 {
+  background-color: #ba7c7c;
+}
+
+#kleur4 {
+  background-color: #737b92;
+}
+
+#kleur5 {
+  background-color: #96a9bd;
+}
+
+#kleur6 {
+  background-color: #7c4c4c;
+}
+
+#kleur7 {
+  background-color: #e63946;
+}
+
+#kleur8 {
+  background-color: #f1faee;
+}
+
+#kleur9 {
+  background-color: #a8dadc;
+}
+
+#kleur10 {
+  background-color: #457b9d;
+}
+
+#kleur11 {
+  background-color: #1d3557;
+}
+
+#kleur12 {
+  background-color: #8ecae6;
+}
+
+#kleur13 {
+  background-color: #219ebc;
+}
+
+#kleur14 {
+  background-color: #023047;
+}
+
+#kleur15 {
+  background-color: #ffb703;
+}
+
+#kleur16 {
+  background-color: #fb8500;
+}
+table {
+  border: 0;
+  border-width: 0;
+  border-spacing: 0;
+}
+
+td {
+  width: 250px;
+  text-align: center;
+}
+
+img {
+  width: 150px;
+}
